@@ -1,0 +1,5 @@
+product_code,category,brand,price_floor,price_target,price_ceiling,competitor_price,parity_gap_pct,days_cover,priority,today_action
+PROD0007,Beverages,Quantum,14.478,17.165,19.362,,0.0,4.87,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~142 units | Promo-responsive | Anchor price: ceiling ≈ $19.36
+PROD0013,Beverages,Zen,28.278,34.075,39.16,,0.0,4.65,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~187 units | Promo-responsive | Anchor price: ceiling ≈ $39.16
+PROD0034,Snacks,Nova,19.711,23.345,26.792,,0.0,4.576,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~138 units | Promo-responsive | Holiday lift | Anchor price: ceiling ≈ $26.79
+PROD0122,Beverages,Apex,6.612,8.67,9.892,,0.0,4.92,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~102 units | Promo-responsive | Anchor price: ceiling ≈ $9.89

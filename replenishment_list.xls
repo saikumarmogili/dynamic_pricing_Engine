@@ -1,0 +1,6 @@
+product_code,category,brand,stock_on_hand,forecast_daily,rop,roq,days_cover,priority,today_action
+PROD0007,Beverages,Quantum,76,15.607,106.827,142.5,4.87,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~142 units | Promo-responsive | Anchor price: ceiling ≈ $19.36
+PROD0013,Beverages,Zen,93,20.0,136.895,187.0,4.65,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~187 units | Promo-responsive | Anchor price: ceiling ≈ $39.16
+PROD0034,Snacks,Nova,67,14.643,100.227,138.0,4.576,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~138 units | Promo-responsive | Holiday lift | Anchor price: ceiling ≈ $26.79
+PROD0122,Beverages,Apex,55,11.179,76.515,101.5,4.92,HIGH,Raise price toward ceiling; pause promos; check ROQ | Reorder ~102 units | Promo-responsive | Anchor price: ceiling ≈ $9.89
+PROD0130,Beverages,Terra,132,22.179,151.807,178.5,5.952,MED,Hold near target; short promos only if ROI strong | Promo-responsive | Holiday lift | Anchor price: target ≈ $9.56
