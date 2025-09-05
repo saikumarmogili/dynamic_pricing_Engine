@@ -1,0 +1,13 @@
+query,report_path
+PROD0102,sample_reports/PROD0102_report.md
+PROD0049,sample_reports/PROD0049_report.md
+PROD0161,sample_reports/PROD0161_report.md
+PROD0014,sample_reports/PROD0014_report.md
+PROD0144,sample_reports/PROD0144_report.md
+PROD0097,sample_reports/PROD0097_report.md
+Zen,sample_reports/Zen_report.md
+Terra,sample_reports/Terra_report.md
+Apex,sample_reports/Apex_report.md
+Electronics,sample_reports/Electronics_report.md
+Snacks,sample_reports/Snacks_report.md
+Apparel,sample_reports/Apparel_report.md
